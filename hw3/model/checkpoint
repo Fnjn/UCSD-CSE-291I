@@ -1,0 +1,2 @@
+model_checkpoint_path: "PointNet_300epoch.ckpt"
+all_model_checkpoint_paths: "PointNet_300epoch.ckpt"
